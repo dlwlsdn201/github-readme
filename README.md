@@ -11,48 +11,59 @@
 
 ## Contacts & SNS
 <p align="left">
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-<img alt="fackbook-message" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
-<img alt="slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
-<img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-<img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img display="inline" alt="Gmail" src="https://img.shields.io/badge/dlwlsdn201@gmail.com-D14836?style=flastic&logo=gmail&logoColor=white"/>
+<img alt="slack" src="https://img.shields.io/badge/dlwlsdn201@naver.com-4A154B?style=flastic&logo=slack&logoColor=white" />
+<img alt="instagram" src="https://img.shields.io/badge/binary__wooo-E4405F?style=flastic&logo=instagram&logoColor=white"/>
+<img alt="github" src="https://img.shields.io/badge/dlwlsdn201@naver.com-100000?style=flastic&logo=github&logoColor=white"/>
+<img alt="youtube" src="https://img.shields.io/badge/vocal.holic-FF0000?style=flastic&logo=youtube&logoColor=white"/>
 
   </p>
 
 ## My skill tree 💻
-<div align="left" display="flex" justify-content="space-around" width="100%">
-<img alt="html5" height="30px" src ="https://img.shields.io/badge/HTML5-e54b20?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="css3" height="30px" src ="https://img.shields.io/badge/CSS-027bc9?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="sass" height="30px" src ="https://img.shields.io/badge/sass-CC6699.svg?&style=for-the-badge&logo=sass&logoColor=white"/>
-<img alt="javaScript" height="30px" src ="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-  
-<img alt="Typescript" height="30px" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white"/>
-<img alt="React" height="30px" src ="https://img.shields.io/badge/React-black.svg?&style=for-the-badge&logo=React&logoColor=61DAFB"/>
-<img alt="react-router" height="30px" src ="https://img.shields.io/badge/React_router-CA4245.svg?&style=for-the-badge&logo=React-router&logoColor=white"/>
-<img alt="bootstrap" height="30px" src ="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="zustand" height="30px" src ="https://img.shields.io/badge/zustand-f26524.svg?&style=for-the-badge&logo=zustand&logoColor=white"/>
-<img alt="react-redux" height="30px" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-<img alt="styled-components" height="30px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-<img alt="mongo-db" height="30px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img alt="" height="30px" src=""/>
- <img alt="" height="30px" src=""/>
-  
+<p align="left" display="flex" justify-content="space-around" width="100%">
+<img alt="html5" src ="https://img.shields.io/badge/HTML5-e54b20?style=flastic&logo=html5&logoColor=white"/>
+<img alt="css3" src ="https://img.shields.io/badge/CSS3-027bc9?&style=flastic&logo=css3&logoColor=white"/>
+  <img alt="sass" src ="https://img.shields.io/badge/sass-CC6699.svg?&style=flastic&logo=sass&logoColor=white"/>
+<img alt="javaScript" src ="https://img.shields.io/badge/JavaScript-323330?style=flastic&logo=javascript&logoColor=F7DF1E"/>
+<img alt="Typescript" src ="https://img.shields.io/badge/Typescript-3178C6.svg?&style=flastic&logo=Typescript&logoColor=white"/>
+<img alt="React"  src ="https://img.shields.io/badge/React-black.svg?&style=flastic&logo=React&logoColor=61DAFB"/>
+<img alt="react-router"  src ="https://img.shields.io/badge/React_router-CA4245.svg?&style=flastic&logo=React-router&logoColor=white"/>
+<img alt="bootstrap"  src ="https://img.shields.io/badge/bootstrap-7952B3.svg?&style=flastic&logo=bootstrap&logoColor=white"/>
+<img alt="zustand"  src ="https://img.shields.io/badge/zustand-f26524.svg?&style=flastic&logo=zustand&logoColor=white"/>
+<img alt="react-redux"  src="https://img.shields.io/badge/Redux-593D88?style=flastic&logo=redux&logoColor=white"/>
+<img alt="styled-components"  src="https://img.shields.io/badge/styled--components-DB7093?style=flastic&logo=styled-components&logoColor=white"/>
+<img alt="mongo-db"  src="https://img.shields.io/badge/MongoDB-4EA94B?style=flastic&logo=mongodb&logoColor=white"/>
+<img alt=""  src=""/>
+ <img alt=""  src=""/>
+ </p>
+ 
 ## Be interested in game
   <p align="left">
-  <img alt="origin" height="30px" src="https://img.shields.io/badge/Origin-148EFF?style=for-the-badge&logo=origin&logoColor=white"/>
-<img alt="fifa" height="30px" src="https://img.shields.io/badge/FIFA-B7312F?style=for-the-badge&logo=fifa&logoColor=white"/>
- <img alt="battlenet" height="30px" src="https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF"/>
-  <img alt="" height="30px" src=""/>
+  <img alt="origin"  src="https://img.shields.io/badge/Origin-148EFF?style=flastic&logo=origin&logoColor=white"/>
+<img alt="fifa"  src="https://img.shields.io/badge/FIFA-B7312F?style=flastic&logo=fifa&logoColor=white"/>
+ <img alt="battlenet"  src="https://img.shields.io/badge/Battle.net-000?style=flastic&logo=battle.net&logoColor=148EFF"/>
+  <img alt=""  src=""/>
 </div>
 </p>
 
 ## using IDE
 <p align="left">
-<img alt="vscode" height="30px" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
-<img alt="replit" height="30px" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
-<img alt="code-sandbox" height="30px" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white"/>
-  </p>
+<img alt="vscode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flastic&logo=visual%20studio%20code&logoColor=white"/>
+<img alt="replit"  src="https://img.shields.io/badge/replit-667881?style=flastic&logo=replit&logoColor=white"/>
+<img alt="code-sandbox"  src="https://img.shields.io/badge/Codesandbox-000000?style=flastic&logo=CodeSandbox&logoColor=white"/>
+</p>
+
+## I’m currently working on...💼
+ - 스마트빌딩 에너지 절감 솔루션 기업의 R&D 부서(플랫폼서비스)에서 프론트엔드 직무로 재직 중 (2021.05 ~ )
+   1. 자사 솔루션 웹서비스 유지 보수
+   2. BEMS(빌딩에너지관리시스템) 신규 기능 개발 
+   3. FEMS (공장에너지관리시스템) 신규 기능 개발
+   4. 자사 통신 하드웨어 장치와 자사 솔루션 웹 서비스 연동
+   5. 기존 웹 서비스 기능 고도화
+
+##  Be interested in development technology
+
+##I’m currently learning...📚 
 <!--
 **dlwlsdn201/dlwlsdn201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
