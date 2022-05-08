@@ -62,8 +62,10 @@
    5. 기존 웹 서비스 기능 고도화
 
 ##  Be interested in development technology
+- 
 
-##I’m currently learning...📚 
+## I’m currently learning...📚 
+- 작성중
 <!--
 **dlwlsdn201/dlwlsdn201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
