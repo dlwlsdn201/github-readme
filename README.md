@@ -46,7 +46,7 @@
 </div>
 </p>
 
-## using IDE
+## Using IDE
 <p align="left">
 <img alt="vscode"  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flastic&logo=visual%20studio%20code&logoColor=white"/>
 <img alt="replit"  src="https://img.shields.io/badge/replit-667881?style=flastic&logo=replit&logoColor=white"/>
