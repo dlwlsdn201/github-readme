@@ -4,10 +4,12 @@
   <image width="320px" textAlign="center" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
 </p>
 
-  <p align="center">안녕하세요. <br/>
+  <h3 align="center">안녕하세요.</br>
     저는 국립 경상대학교 정보통신공학과를 졸업한 <strong>Front-End Developer</strong> <br/>
     29세 이진우입니다 🙂
-  </p>
+  </h3>
+
+---
 
 ## Contacts & SNS
 <p align="left">
