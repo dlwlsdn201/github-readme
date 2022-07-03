@@ -1,13 +1,15 @@
-## Hello, World! 👋
-
 <p align="center">
-  <image width="320px" textAlign="center" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
+  <strong>Hello, World! 👋</strong>
+</p>
+<p align="center">
+  <image width="240" src="https://media.giphy.com/media/Q7SKqn3G97xpmfSOvG/giphy.gif"/>
 </p>
 
-  <h3 align="center">안녕하세요.</br>
-    저는 국립 경상대학교 정보통신공학과를 졸업한 <strong>Front-End Developer</strong> <br/>
-    29세 이진우입니다 🙂
-  </h3>
+  <p align="center">안녕하세요.</br>
+    국립 경상대학교 정보통신공학과 학사 졸업 후
+    스마트빌딩 에너지 관리 솔루션 IoT 기업에서 재직 중인 <br/>
+    <strong>Junior front-End Developer</strong> 이진우 입니다 🙂
+  </p>
 
 ---
 
@@ -67,7 +69,12 @@
 - 
 
 ## I’m currently learning...📚 
-- 작성중
+ ### CI/CD
+  - git Actions 
+  - bitbucket pipelines
+ ### next.js
+ ### typescript
+ ### mariaDB
 <!--
 **dlwlsdn201/dlwlsdn201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
