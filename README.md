@@ -74,7 +74,7 @@
   - bitbucket pipelines
  ### next.js
  ### typescript
- ### mariaDB
+ ### React Testing Library (Jest)
 <!--
 **dlwlsdn201/dlwlsdn201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
